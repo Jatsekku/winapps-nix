@@ -123,7 +123,7 @@ in
         # RDP_IP
         ip = lib.mkOption {
           type = lib.types.str;
-          default = "127.0.0.1";
+          default = "";
           description = "Windows IPv4 address.";
         };
 
