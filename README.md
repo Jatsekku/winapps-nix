@@ -67,3 +67,9 @@ programs.winapps = {
 ```
 
 ---
+
+## To do
+- [ ] Research solution for automatic readme.md option reference generation.
+- [ ] Add tests.
+- [ ] Setup CI.
+
